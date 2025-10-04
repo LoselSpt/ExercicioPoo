@@ -39,7 +39,7 @@ public class Principal {
         System.out.println("Modelo: " + veiculo1.getModelo());
         System.out.println("Fabricante: " + veiculo1.getFabricante());
         System.out.println("Ano: " + veiculo1.getAno());
-        System.out.println("Proprietário: " + cliente1.getNome()); // Associando o veículo ao cliente
+        System.out.println("Proprietário: " + cliente1.getNome()); 
         System.out.println("------------------------------------");
     }
 }
